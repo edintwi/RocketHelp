@@ -6,8 +6,9 @@ import { useFonts, Roboto_700Bold, Roboto_400Regular } from '@expo-google-fonts/
 
 import {THEME} from './src/styles/theme';
 
-import {SingIn} from './src/screens/SingIn';
-import { Loading } from './src/components/Loading';
+import { Routes } from './src/routes/Index';
+import {Details} from './src/screens/Details';
+import {Loading} from './src/components/Loading';
 
 export default function App() {
   
@@ -21,7 +22,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      { fontsLoaded ? <SingIn/> : <Loading/> }
+      { fontsLoaded ? <Routes/> : <Loading/> }
     </NativeBaseProvider> 
   );
 }
