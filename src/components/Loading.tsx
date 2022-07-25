@@ -1,11 +1,12 @@
 import React from 'react';
-import { Center, Spinner} from "native-base"
+import { Center, Spinner, VStack} from "native-base"
 
 export function Loading(){
     return(
-        <Center>
-            <Spinner flex={1} bg='gray.700' />
+        <Center flex={1} bg='gray.700' >
+            <Spinner color='secondary.700'/>
         </Center>
+
     );
         
     
