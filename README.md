@@ -18,4 +18,4 @@ Com o seu emulador android aberto execute o comando em seu terminal
 
 # Conclusão
 
-Mais um passo dado na minha especialização em desenvolvimento mobile/ frontend, fiquei muito feliz com o resultado que obtive neste projeto, fica o meu agradecimento especial a <b> Rockeseat </b> por ter feito essa semana incrível.
+Mais um passo dado na minha especialização em desenvolvimento mobile/ frontend, fiquei muito feliz com o resultado que obtive neste projeto, fica o meu agradecimento especial a <b>  <link src="https://www.rocketseat.com.br/" > Rockeseat </link> </b> por ter feito essa semana incrível.
